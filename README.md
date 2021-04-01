@@ -5,7 +5,7 @@ Transfer learning is a research problem in machine learning that focuses on stor
 
 <p align='center'>
     <a href ='#'>
-        <img src=''>
+        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/Transfer-learning.png?raw=true'>
     </a>
 </p>
 
@@ -25,7 +25,7 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 - __Task__ :zero::one: _Setup your TensorFlow and Colab Runtime_
 - __Task__ :zero::one: _Load the Quora Insincere Questions Dataset_
 - __Task__ :zero::one: _TensorFlow Hub for Natural Language Processing_ 
-- __Task__ :zero::five: $&$ :zero::six: _Define Function to Build and Compile Models_
+- __Task__ :zero::five: __&__ :zero::six: _Define Function to Build and Compile Models_
 - __Task__ :zero::one: _Train Various Text Classification Models_
 - __Task__ :zero::one: _Compare Accuracy and Loss Curves_
 - __Task__ :zero::one: _Fine-tune Model from TF Hub_
@@ -34,26 +34,53 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 
 ## Visualize model performance metrics with TensorBoard 
 
-<p align='center'>
-    <a href ='#'>
-        <img src=''>
-    </a>
-</p>
+### Accuracy Curves for Models
 
 <p align='center'>
     <a href ='#'>
-        <img src=''>
+        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/accuracy_curve.png?raw=true'>
     </a>
 </p>
 
+
+### Loss Curves for Models
 <p align='center'>
     <a href ='#'>
-        <img src=''>
+        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/loss_curve.png?raw=true'>
     </a>
 </p>
 
+## Tensor-Board
+### `__epoch_accuracy__`
 <p align='center'>
     <a href ='#'>
-        <img src=''>
+        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_accuracy_tb.png?raw=true'>
     </a>
 </p>
+
+### `__epoch_loss__`
+<p align='center'>
+    <a href ='#'>
+        <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_loss_tb.png?raw=true'>
+    </a>
+</p>
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][StackExchange AI]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[StackExchange AI]: https://ai.stackexchange.com/users/36737/cypher
+
+
+---
+
+
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
