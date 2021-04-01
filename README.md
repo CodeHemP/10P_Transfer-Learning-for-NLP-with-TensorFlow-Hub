@@ -1,4 +1,4 @@
-# Transfer-Learning-for-NLP-with-TensorFlow-Hub
+# __Transfer-Learning-for-NLP-with-TensorFlow-Hub__
 
 Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
 
@@ -12,7 +12,7 @@ Transfer learning is a research problem in machine learning that focuses on stor
 
 [TensorFlow Hub](https://tfhub.dev/) is a repository of pre-trained TensorFlow models.
 
-## Objectives
+## __Objectives__
 In this project, we will use pre-trained models from TensorFlow Hub with [`tf.keras`](https://www.tensorflow.org/api_docs/python/tf/keras) for text classification. we will Use pre-trained NLP text embedding models from TensorFlow Hub Perform transfer learning to fine-tune models on real-world text data, build and evaluate multiple models for text classification with TensorFlow, and visualize model performance metrics with Tensorboard.
  
 
@@ -32,9 +32,9 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 - __Task__ :zero::one: _Train Bigger Models and Visualize Metrics with TensorBoard_
 
 
-## Visualize model performance metrics with TensorBoard 
+## __Visualize model performance metrics with TensorBoard__
 
-### Accuracy Curves for Models
+### __Accuracy Curves for Models__
 
 <p align='center'>
     <a href ='#'>
@@ -43,14 +43,14 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 </p>
 
 
-### Loss Curves for Models
+### __Loss Curves for Models__
 <p align='center'>
     <a href ='#'>
         <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/loss_curve.png?raw=true'>
     </a>
 </p>
 
-## Tensor-Board
+## __Visualize Metrics with TensorBoard__
 ### `__epoch_accuracy__`
 <p align='center'>
     <a href ='#'>
