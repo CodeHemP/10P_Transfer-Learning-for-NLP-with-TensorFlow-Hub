@@ -32,7 +32,7 @@ In this project, we will use pre-trained models from TensorFlow Hub with [`tf.ke
 ## __Dataset__
 A downloadable copy of the [__Quora Insincere Questions Classification data__](https://www.kaggle.com/c/quora-insincere-questions-classification/data) can be found [https://archive.org/download/fine-tune-bert-tensorflow-train.csv/train.csv.zip](https://archive.org/download/fine-tune-bert-tensorflow-train.csv/train.csv.zip). Decompress and read the data into a pandas DataFrame.
 
-Project Structure
+## __Project Structure__
 The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided into following tasks:
 
 - __Task__ :zero::one: _Introduction to the Project_
@@ -64,7 +64,7 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
     </a>
 </p>
 
-## __Visualize Metrics with TensorBoard__
+## __Visualization of Metrics with TensorBoard__
 ### __`epoch accuracy`__
 <p align='center'>
     <a href ='#'>
