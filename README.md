@@ -65,14 +65,14 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 </p>
 
 ## __Visualize Metrics with TensorBoard__
-### `__epoch accuracy__`
+### __`epoch accuracy`__
 <p align='center'>
     <a href ='#'>
         <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_accuracy_tb.png?raw=true'>
     </a>
 </p>
 
-### `__epoch loss__`
+### __`epoch loss`__
 <p align='center'>
     <a href ='#'>
         <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_loss_tb.png?raw=true'>
