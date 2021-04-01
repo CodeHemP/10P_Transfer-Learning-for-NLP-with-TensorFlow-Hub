@@ -1,3 +1,14 @@
+[![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
+![Language](https://img.shields.io/github/languages/top/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
+![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
+![Maintained](https://img.shields.io/maintenance/yes/2021)
+![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
+[![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)](https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
+![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
+![Size](https://img.shields.io/github/repo-size/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
+
 # __Transfer-Learning-for-NLP-with-TensorFlow-Hub__
 
 Transfer learning is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.
@@ -17,6 +28,9 @@ In this project, we will use pre-trained models from TensorFlow Hub with [`tf.ke
  
 
 > __Prerequisites:__ Python programming language, be familiar with deep learning for Natural Language Processing (NLP), and have trained models with TensorFlow or and its Keras API.
+
+## __Dataset__
+A downloadable copy of the [__Quora Insincere Questions Classification data__](https://www.kaggle.com/c/quora-insincere-questions-classification/data) can be found [https://archive.org/download/fine-tune-bert-tensorflow-train.csv/train.csv.zip](https://archive.org/download/fine-tune-bert-tensorflow-train.csv/train.csv.zip). Decompress and read the data into a pandas DataFrame.
 
 Project Structure
 The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided into following tasks:
@@ -51,14 +65,14 @@ The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided
 </p>
 
 ## __Visualize Metrics with TensorBoard__
-### `__epoch_accuracy__`
+### `__epoch accuracy__`
 <p align='center'>
     <a href ='#'>
         <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_accuracy_tb.png?raw=true'>
     </a>
 </p>
 
-### `__epoch_loss__`
+### `__epoch loss__`
 <p align='center'>
     <a href ='#'>
         <img src='https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub/blob/main/img/epoch_loss_tb.png?raw=true'>
