@@ -4,10 +4,10 @@
 ![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2021)
 ![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
-[![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)](https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
+[![GitHub issues](https://img.shields.io/github/issues/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)](https://github.com/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
 ![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
-![Size](https://img.shields.io/github/repo-size/mohd-faizy/09P_Detecting_COVID_19_with_Chest_X-Ray_using_PyTorch)
+![Size](https://img.shields.io/github/repo-size/mohd-faizy/10P_Transfer-Learning-for-NLP-with-TensorFlow-Hub)
 
 # __Transfer-Learning-for-NLP-with-TensorFlow-Hub__
 
