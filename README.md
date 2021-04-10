@@ -36,14 +36,14 @@ A downloadable copy of the [__Quora Insincere Questions Classification data__](h
 The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided into following tasks:
 
 - __Task__ :zero::one: _Introduction to the Project_
-- __Task__ :zero::one: _Setup your TensorFlow and Colab Runtime_
-- __Task__ :zero::one: _Load the Quora Insincere Questions Dataset_
-- __Task__ :zero::one: _TensorFlow Hub for Natural Language Processing_ 
+- __Task__ :zero::two: _Setup your TensorFlow and Colab Runtime_
+- __Task__ :zero::three: _Load the Quora Insincere Questions Dataset_
+- __Task__ :zero::four: _TensorFlow Hub for Natural Language Processing_ 
 - __Task__ :zero::five: __&__ :zero::six: _Define Function to Build and Compile Models_
 - __Task__ :zero::one: _Train Various Text Classification Models_
-- __Task__ :zero::one: _Compare Accuracy and Loss Curves_
-- __Task__ :zero::one: _Fine-tune Model from TF Hub_
-- __Task__ :zero::one: _Train Bigger Models and Visualize Metrics with TensorBoard_
+- __Task__ :zero::seven: _Compare Accuracy and Loss Curves_
+- __Task__ :zero::eight: _Fine-tune Model from TF Hub_
+- __Task__ :zero::nine: _Train Bigger Models and Visualize Metrics with TensorBoard_
 
 
 ## __Visualize model performance metrics with TensorBoard__
